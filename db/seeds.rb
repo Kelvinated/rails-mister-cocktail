@@ -41,7 +41,7 @@ Cocktail.create(name: "Negroni", remote_photo_url: photo_url)
 Cocktail.create(name: "Old-fashioned", remote_photo_url: photo_url)
 Cocktail.create(name: "Moscow mule", remote_photo_url: photo_url)
 Cocktail.create(name: "Manhattan", remote_photo_url: photo_url)
-Cocktail.create(name: "Mojito", remote_photo_urç: photo_url)
+Cocktail.create(name: "Mojito", remote_photo_url: photo_url)
 
 
 # Dose.create(description: "one dash")
